@@ -1,4 +1,4 @@
-<img src="(https://github.com/TjRho/TjRho/assets/113124968/eff7e9d4-e632-4e09-97a3-b0c7519d1a3a)" width=1000 >
+<img src="(https://github.com/TjRho/TjRho/assets/113124968/eff7e9d4-e632-4e09-97a3-b0c7519d1a3a)" width=1000 height=100 >
 
 <h3 align="center">I am from Wisconsin but live in Missouri</h3>
 <h3 align="center"> I am a Senior at Delta Highschool, I play for the Baseball team. I am one of the top students formerly involved in Beta Club, Beta Club Executive Counsel, Student Counsel, Student Counsel Executive Counsel, A+ program,FFA. 
