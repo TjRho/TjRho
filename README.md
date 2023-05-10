@@ -1,4 +1,4 @@
-<img src='[relative path]' alt=""></img>
+<img src='[relative path]' Tj alt=""></img>
 <h3 align="center">I am from Wisconsin but live in Missouri</h3>
 <h3 align="center"> I am a Senior at Delta Highschool, I play for the Baseball team. I am one of the top students formerly involved in Beta Club, Beta Club Executive Counsel, Student Counsel, Student Counsel Executive Counsel, A+ program,FFA. 
   I do not currently know what I aspire to do once i get out of highschool as far as work, but I do know I want to go straight into the workforce of some sort.
